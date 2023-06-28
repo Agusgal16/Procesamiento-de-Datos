@@ -3,10 +3,10 @@
 Este repositorio contiene el proyecto final de la asignatura "Procesamiento de Datos" de la Tecnicatura en Ciencia de Datos e Inteligencia Artificial. El objetivo de este proyecto es realizar un análisis detallado de los sueldos en el campo de la ciencia de datos durante el año 2023, utilizando conjuntos de datos extraídos de fuentes confiables.
 
 ### Integrantes del Proyecto:
--CANDIA Tatiana
--GALEANO Agustin
--KLER Micaela
--LOVERA Alan
+- CANDIA Tatiana
+- GALEANO Agustin
+- KLER Micaela
+- LOVERA Alan
 
 #### Descripción del proyecto
 El proyecto se centra en analizar los sueldos en el campo de la ciencia de datos durante el año 2023. Para llevar a cabo este análisis, utilizamos Jupyter Notebooks, una herramienta interactiva que nos permitirá combinar código, visualizaciones y explicaciones en un solo documento.
@@ -23,10 +23,10 @@ La recolección y preparación de datos se realizó con MySQL Workbench, una her
 ### Estructura del repositorio
 El repositorio está organizado de la siguiente manera:
 
-datasets/: Carpeta que contiene los conjuntos de datos utilizados en el proyecto.
-notebooks/: Carpeta que contiene los Jupyter Notebooks con el código y el análisis realizado.
-sql/: Carpeta que contiene los comandos utilizados durante el procesamiento y análisis de los datos.
-reports/: Carpeta que contiene los informes y reportes generados utilizando Power BI.
+- datasets/: Carpeta que contiene los conjuntos de datos utilizados en el proyecto.
+- notebooks/: Carpeta que contiene los Jupyter Notebooks con el código y el análisis realizado.
+- sql/: Carpeta que contiene los comandos utilizados durante el procesamiento y análisis de los datos.
+- reports/: Carpeta que contiene los informes y reportes generados utilizando Power BI.
 
 ### Instrucciones de uso
 Para ejecutar el proyecto, se recomienda seguir los siguientes pasos:
