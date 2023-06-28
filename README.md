@@ -4,7 +4,7 @@ Este repositorio contiene el proyecto final de la asignatura "Procesamiento de D
 
 Integrantes del Proyecto:
 -CANDIA Tatiana
--GALEANO Agustiin
+-GALEANO Agustin
 -KLER Micaela
 -LOVERA Alan
 
