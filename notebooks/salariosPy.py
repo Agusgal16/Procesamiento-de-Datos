@@ -63,6 +63,14 @@ datos_filtrados.head(5)
 agrupados = datos.groupby(['experiencia', 'posicion']).salario_en_dolares.agg([min,max])
 print(agrupados)
 
+
+#Ordenar por salarios en orden descendente
+salarios_ordenados = datos.sort_values(by="salario_en_dolares", ascending=False)
+
+#Mostrar los cinco salarios mas altos
+salarios_mas_altos = salarios_ordenados.head(5)
+print(salarios_mas_altos)
+
 #Graficamos los datos de experiencia y salario
 datos_orden = datos.sort_values('salario_en_dolares', ascending=False)
 plt.bar(datos_orden['experiencia'], datos_orden['salario_en_dolares'])
@@ -90,12 +98,3 @@ plt.xlabel('Presencialidad')
 plt.ylabel('Salario en dolares')
 plt.title('Salario por presencialidad')
 plt.show()
-
-"""# Ordenar por salarios en orden descendente"""
-
-salarios_ordenados = datos.sort_values(by="salario_en_dolares", ascending=False)
-
-"""# Mostrar los cinco salarios mas altos"""
-
-salarios_mas_altos = salarios_ordenados.head(5)
-print(salarios_mas_altos)

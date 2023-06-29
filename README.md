@@ -43,3 +43,5 @@ Durante el desarrollo del proyecto, nos encontramos con algunos desafíos que fu
 
 Primeramente las escalas salariales de acuerdo a las experiencias variaban mucho. Esto implicaban varios errores, por lo que se tuvo que hacer una limpieza del mismo, utilizando una herramienta de gestoria de bases de datos, el archivo "salarios (bruto)" se modifico dando lugar al archivo 
 "salarios" como archivo a utilizar.(ambos se encuentran el el repositorio como prueba)
+
+Reporte: https://drive.google.com/file/d/1-ukhjwdCAdTuV936GL3F4GSA2ON605YX/view?usp=sharing
