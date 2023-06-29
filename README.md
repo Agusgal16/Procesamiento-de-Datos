@@ -43,3 +43,5 @@ Primeramente las escalas salariales de acuerdo a las experiencias variaban mucho
 "salarios" como archivo a utilizar.(ambos se encuentran el el repositorio como prueba)
 
 Reporte: https://drive.google.com/file/d/1-ukhjwdCAdTuV936GL3F4GSA2ON605YX/view?usp=sharing
+Google Colab:     https://colab.research.google.com/drive/1NKO8yv-h7HEHDdFw1FBQZit4KL_vUhTp
+
