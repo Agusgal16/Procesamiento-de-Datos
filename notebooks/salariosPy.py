@@ -12,7 +12,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 #Carga del archivo
-datos = pd.read_csv('salarios.csv')
+datos = pd.read_csv('datasets/salarios.csv')
 
 #Imprimimos primeras 5 filas
 print(datos.head(5))
